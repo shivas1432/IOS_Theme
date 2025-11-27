@@ -8,7 +8,7 @@ A pixel-perfect recreation of iOS and its native applications, built entirely wi
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](./Theme%20demo.mp4)
+https://github.com/shivas1432/IOS_Theme/assets/YOUR_USER_ID/Theme%20demo.mp4
 
 ## 📱 Features
 
@@ -96,4 +96,4 @@ This project is not affiliated with or endorsed by Apple Inc. All app icons and 
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a star
+⭐ If you found this project helpful, please consider giving it a star!
