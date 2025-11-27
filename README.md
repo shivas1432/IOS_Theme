@@ -1,4 +1,4 @@
-# iOS Clone SwiftUI
+# iOS Theme Clone
 
 ![Swift](https://img.shields.io/badge/Swift-6-orange?logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-26%2B-blue?logo=apple)
@@ -6,7 +6,9 @@
 
 A pixel-perfect recreation of iOS and its native applications, built entirely with SwiftUI. This project demonstrates advanced SwiftUI techniques and modern iOS development capabilities.
 
-https://github.com/user-attachments/assets/a986548f-1610-4a2f-82ab-572c5bbb3658
+## 🎥 Demo
+
+[▶️ Watch Demo Video](./Theme%20demo.mp4)
 
 ## 📱 Features
 
@@ -42,12 +44,12 @@ This project includes fully functional recreations of the following iOS system a
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/shivas1432/iOS-CLONE-SWIFTUI.git
+   git clone https://github.com/shivas1432/IOS_Theme.git
 ```
 
 2. Open the project in Xcode:
 ```bash
-   cd iOS-CLONE-SWIFTUI
+   cd IOS_Theme
    open ios.xcodeproj
 ```
 
@@ -56,10 +58,6 @@ This project includes fully functional recreations of the following iOS system a
 4. Press **Run** (`Cmd + R`)
 
 > **Tip:** Press the home button on the top left or volume button to return to the home screen.
-
-## 🎥 Demo
-
-Check out the demo video: [Theme demo.mp4](./Theme%20demo.mp4)
 
 ## 🤝 Contributing
 
