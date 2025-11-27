@@ -96,4 +96,5 @@ This project is not affiliated with or endorsed by Apple Inc. All app icons and 
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a star!
+⭐ If you found this project helpful, please consider giving it a star
+
