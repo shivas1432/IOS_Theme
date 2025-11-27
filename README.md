@@ -8,7 +8,7 @@ A pixel-perfect recreation of iOS and its native applications, built entirely wi
 
 ## 🎥 Demo
 
-https://github.com/shivas1432/IOS_Theme/raw/master/Theme%20demo.mp4
+https://github.com/user-attachments/assets/a986548f-1610-4a2f-82ab-572c5bbb3658
 
 ## 📱 Features
 
